@@ -1,9 +1,0 @@
-1. True/False Question
-	a. True
-	b. true
-	
-2. Tracing method execution
-	returns:
-	snitch: x = 4004, y = 1001
-	quaffle: x = 2003, y = 1, z = 1001
-	bludger: x = 1001, y = 2001, z = 2003
